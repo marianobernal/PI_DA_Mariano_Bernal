@@ -124,12 +124,61 @@ En el mismo, además de tener información para monitorear la evolución de mét
 <br>
 
 ## Estrategia RSI Pura
+Si bien como mencionamos en el apartado anterior es muy importante para la toma de decisiones combinar varias métricas o kpis, a efectos teóricos para demostrar el potencial de este mercado y simplicar el análisis, nos enfocaremos en los rendimientos generados historicamente con algunas criptommonedas tomando la decision de comprar o vender exclusivamente con la técnica RSI.<br><br>
+Básicamente lo que hicimos fue tomar decisiones matemáticas que consistían en:
++ Comprar: cuando el RSI baja de 30 y si no tengo ninguna compra ya efectuada. Si luego baja más o se mantiene no nos movemos de la posición inicial de compra.<br><br>
++ Vender: solo si se compró anteriormente y si el RSI supera 70. Al igual que en el caso antorior, suponemos la venta ni bien supera 70 sin tener en cuenta otras consideraciones.<br>
+
+En la siguiente imagen podemos ver por ejemplo un ciclo de compra exitoso basado en RSI generando una ganancia del 11 %.
+<p align="center">
+<img src="https://github.com/marianobernal/PI_DA_Mariano_Bernal/blob/master/Archivos/EjCicloRSI.png?raw=true"  height=300>
+</p>
+
+En el Dashboard además presentaremos las medias móviles que comentamos previamente y que son muy útiles para complementar y/o tomar una decisión más integral.
  
 ## Criptomonedas Presentadas
+Debido a la gran cantidad de criptomonedas existentes (más de 10.000) y siendo que estamos realizando una primer incursión planteamos incluir y analizar solo 16 criptomonedas.<br>
+
+En estas 16 monedas vamos a incluir 2 categorías bien distintas que nos permitan analizar alternativas opuestas de inversión y que clasificaremos como:
++ Mercado: son las 8 criptomonedas con mayor capitalización en el mercado (cantidad*precio). Son aquellas con más trayectoria en el mercado y con una volatilidad algo menor.<br>
++ Tendencia: aquellas que son consideradas como "trending" por coingreko. Suelen ser criptomonedas que están teniendo mucha actividad en redes sociales, noticias, grandes variaciones de precios, etc. Suelen ser más volátiles y por ende riesgosas. <br>
+
+En ambos grupos puede existir alguna stablecoin que en el Dashboard analizaremos también por separado.
 
 ## Estructura del Dashboard
 
+El Dashboard se encuentra compuesto por una portada con un índice de navegabilidad y 3 páginas que permiten analizar distintas partes del negocio.
+
++ 1-Intro Criptomonedas: nos permitirá tener un rápido pantallazo de las particularidades del trading en criptomonedas. (evoluciones, tendencias, traders, etc)<br>
++ 2-RSI Puro-Resumen: permitirá analizar los resultados de los kpis del ejercicio teórico con RSI puro.<br>
++ 3-Evolución Métricas: permitirá analizar las distintas métricas de cada criptomoneta junto con algunos kpis para poder analizar en detalle  el mercado y evaluar si es conveniente invertir o no.<br>
+## KPIs y Métricas
+
+En el Dashboard se definió trabajar con las siguientes métricas y KPIs.<br>
+
+**KPIs:**
+
++ Ganancia porcentual: esta definida como el % promedio de ganancia en dolares en las operaciones ficticias realizadas. El objetivo es que sea mayor que 0
++ Operaciones Exitosas porcentuales: es la cantidad de operaciones que resultaron en ganancia sobre el total de operaciones realizadas. Como objetivo, planteamos que sea mayor al 60 % de las operaciones.
++ Operaciones Realizadas: es la cantidad de operaciones realizadas en un determinado período de tiempo. El objetivo está a definirse según definiciones a tomar pero debería ser un valor medio por usuario por mes/año. 
+
+**Métricas:**
+
++ Precio
++ Precio vs períodos anteriores (1 mes, 3 meses, 6 meses y 1 año)
++ Medias Móviles de 5, 20 y 200 días 
++ RSI
+
 # **Conclusiones**
+Como conclusión, efectivamente recomendamos comenzar a ofrecer a nuestros clientes realizar trading desde nuestra plataforma. A continuación le compartimos conclusiones con mayor detalle<br>
+
++ Proponemos capacitar brevemente sobre el mercado y los riesgos/volatilidades del mismo a nuestros clientes, junto con las distintas estrategias de inversión existentes (trading corto vs holding). 
++ Ofrecería tanto criptomonedas con mayor participación en mercado como tendencias por la alta rentabilidad que pueden generar, pero recomendando las de mayor mercado por ser más estables.
++ Del escenario realizado con RSI puro, vemos que obtenemos rentabilidades acumuladas positivas para ambos tipos de criptomonedas y porcentaje de operaciones exitosas mayores al 50 %
+    + Mercado: mayor cantidad de operaciones exitosas con menos % de genancia
+    + Tendencia: menor cantidad de operaciones exitosas con mayor % de genancia
++ Los resultados anteriores, se pueden mejorar notoriamente combinandos distintas métricas con RSI como podrían ser medias móviles, DMI, etc. Sería importante mencionar esto en la capacitación.
++ Cantidad de operaciones: la cantidad de operaciones no es muy elevada siendo de entre 20 y 35 por año en el escenario. Con estrategias complementadas con otras métricas podrían aumentar también.
 
 ## **Enlaces útiles**
 
