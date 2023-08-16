@@ -79,8 +79,15 @@ Además Bitcoin tiene la capitalización de mercado más grande entre todas las 
 
 Por otro lado, Bitcoin ha demostrado ser resistente y seguro a lo largo del tiempo. Su red blockchain ha estado operativa de manera continua desde su creación, lo que ha aumentado la confianza en su tecnología.<br>
 
-Una última particularidad y que tiene además gran influencia en el precio de Bitcoin es lo que se conoce como **Halving**. El "halving" es un evento programado en algunas criptomonedas, que reduce a la mitad la recompensa que reciben los mineros por validar y confirmar transacciones en la red. Está diseñado para controlar la tasa de emisión de nuevas monedas y, en última instancia, limitar la oferta total de la criptomoneda. **Este ha sido un factor importante en la percepción de Bitcoin como reserva de valor.**
+Una última particularidad y que tiene además gran influencia en el precio de Bitcoin es lo que se conoce como **Halving**. El "halving" es un evento programado en algunas criptomonedas, que reduce a la mitad la recompensa que reciben los mineros por validar y confirmar transacciones en la red. Está diseñado para controlar la tasa de emisión de nuevas monedas y, en última instancia, limitar la oferta total de la criptomoneda. **Este ha sido un factor importante en la percepción de Bitcoin como reserva de valor**, el último fue en 2020 y el próximo se espera para el 2024.
+<p align="center">
+<img src="https://github.com/marianobernal/PI_DA_Mariano_Bernal/blob/master/Archivos/Halvings.jpg?raw=true"  height=300>
+</p>
 
+<hr> 
+
+# **Trading y Estrategias Propuestas**
+  
 
 ## **Enlaces útiles**
 
