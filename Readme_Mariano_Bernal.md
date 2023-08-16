@@ -179,6 +179,7 @@ Como conclusión, efectivamente recomendamos comenzar a ofrecer a nuestros clien
     + Tendencia: menor cantidad de operaciones exitosas con mayor % de genancia
 + Los resultados anteriores, se pueden mejorar notoriamente combinandos distintas métricas con RSI como podrían ser medias móviles, DMI, etc. Sería importante mencionar esto en la capacitación.
 + Cantidad de operaciones: la cantidad de operaciones no es muy elevada siendo de entre 20 y 35 por año en el escenario. Con estrategias complementadas con otras métricas podrían aumentar también.
++ Es importante considerar factores macro a la hora de invertir, por ejemplo los halvings de Bitcoin y/o las influencias de otros factores como publicaciones en redes sociales de influencers, tendencias de mercado y cambios en regulaciones.
 
 ## **Enlaces útiles**
 
