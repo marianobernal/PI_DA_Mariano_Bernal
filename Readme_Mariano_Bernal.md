@@ -86,14 +86,54 @@ Una última particularidad y que tiene además gran influencia en el precio de B
 
 <hr> 
 
-# **Trading y Estrategias Propuestas**
-  
+# **Trading y Principales Métricas**
+Como se sabe, el mercado de las criptomonedas si bien ha tenido una tendencia alcista desde que surguió, cuenta con una volatilidad muy elevada en los precios de sus activos. <br>
+
+Por esto, es muy importante que conozcamos algunos de los indicadores que se utilizar para analizar posibles compras y ventas y sobre todo que definamos/propongamos una estrategia a seguir.
+<br>
+
+## Algunas Métricas / KPIs
+ 
+En este apartado analizaremos algunas de las métricas/KPIs que consideramos más útiles a la hora de invertir en criptomonedas. <br>
+Las estrategias de trading utilizan indicadores técnicos y análisis de datos históricos para tomar decisiones sobre cuándo comprar o vender. Vamos a conocer el RSI y las medias móviles simples de 5, 10 y 200 días.
+
++ RSI (Relative Strength Index): El RSI es un indicador de impulso que mide la velocidad y el cambio de los movimientos de precios. Su valor oscila entre 0 y 100, y se utiliza para evaluar si un activo está sobrecomprado (RSI alto) o sobrevendido (RSI bajo). La estrategia de RSI implica: 
+    + RSI Alto (Sobrecompra): Cuando el RSI está por encima de cierto umbral, como 70, se considera que el activo está sobrecomprado. Esto podría indicar que es un buen momento para considerar la venta, ya que el precio podría corregirse a la baja.
+
+    + RSI Bajo (Sobrevendido): Cuando el RSI cae por debajo de un umbral, como 30, se considera que el activo está sobrevendido. Esto podría sugerir una oportunidad de compra, ya que el precio podría corregirse al alza.
+<p align="center">
+<img src="https://github.com/marianobernal/PI_DA_Mariano_Bernal/blob/master/Archivos/RSI.png?raw=true"  height=200>
+</p>
+
++ Medias Móviles Simples (SMA) de 5, 10 y 200 días: Las medias móviles son indicadores que suavizan los movimientos de precios y ayudan a identificar tendencias a lo largo del tiempo. Las medias móviles simples se calculan tomando el promedio de los precios de cierre durante un período específico. La estrategia de medias móviles implica:
+    + Cruce de Medias Móviles: Un cruce alcista de una SMA más corta (como la de 5 días) sobre una SMA más larga (como la de 10 días) puede considerarse una señal de compra. Por otro lado, un cruce bajista (SMA más corta cruzando por debajo de la SMA más larga) puede considerarse una señal de venta.
+
+    + Confirmación de Tendencia: Las medias móviles también se utilizan para confirmar la dirección de la tendencia. Cuando el precio está por encima de una SMA de 200 días, se considera una tendencia alcista a largo plazo. Si está por debajo, se considera una tendencia bajista.
+
+Es importante ajustar los períodos de las medias móviles según la volatilidad del activo y el horizonte de tiempo de trading.
+<p align="center">
+<img src="https://github.com/marianobernal/PI_DA_Mariano_Bernal/blob/master/Archivos/Medias%20M%C3%B3viles2.png?raw=true"  height=200>
+</p>
+
+Es importante tener en cuenta que estos indicadores son herramientas de análisis técnico y puede proporcionar señales falsas en ciertas condiciones del mercado. Por eso para reducir estos riesgos es importante combinar el análisis con varios indicadores.
+
+# **Dashboard y Propuesta**
+Para facilitar el conocimiento del negocio, brindar herramientas para la toma de decisiones y conocer posibles resultados de inversión hemos realizado un Dashboard en Power Bi  <br>
+
+En el mismo, además de tener información para monitorear la evolución de métricas y kpis, hemos sumado un escenario donde evaluamos resultados de inversiones teóricas puras con RSI en base a información histórica recopilada.
+<br>
+
+## Estrategia RSI Pura
+ 
+
 
 ## **Enlaces útiles**
 
-**`Deployment web`**: https://fastapimarianobernal.onrender.com/docs 
+**`EDA`**: https://github.com/marianobernal/PI_DA_Mariano_Bernal/blob/master/EDA.ipynb 
 
-**`Repositorio`**: https://github.com/marianobernal/PI1_Mariano_Bernal  
+**`Repositorio`**: https://github.com/marianobernal/PI_DA_Mariano_Bernal 
 
-**`Video deployment`**: https://youtu.be/PrcRiTZJcjw
+**`Dashboard PBI`**: https://github.com/marianobernal/PI_DA_Mariano_Bernal/blob/master/Archivos/DA_Mariano_Bernal.pbix 
+
+
 
