@@ -125,7 +125,11 @@ En el mismo, además de tener información para monitorear la evolución de mét
 
 ## Estrategia RSI Pura
  
+## Criptomonedas Presentadas
 
+## Estructura del Dashboard
+
+# **Conclusiones**
 
 ## **Enlaces útiles**
 
